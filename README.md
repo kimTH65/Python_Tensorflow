@@ -1,5 +1,4 @@
 # Python_tensorflow(deep learning) 
-<h3><a href="Memo.md">Memo </a> </h3>
 
  - <a href="https://github.com/kimTH65/Python_tensorflow/blob/main/linearRegression.ipynb">linear regression practice(tf-v2)</a> 
  
